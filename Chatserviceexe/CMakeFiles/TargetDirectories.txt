@@ -1,0 +1,4 @@
+C:/Users/apple/Desktop/Chatserviceexe/CMakeFiles/MyClient.dir
+C:/Users/apple/Desktop/Chatserviceexe/CMakeFiles/MyServer.dir
+C:/Users/apple/Desktop/Chatserviceexe/CMakeFiles/ALL_BUILD.dir
+C:/Users/apple/Desktop/Chatserviceexe/CMakeFiles/ZERO_CHECK.dir

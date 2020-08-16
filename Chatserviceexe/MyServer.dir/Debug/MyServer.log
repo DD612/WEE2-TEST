@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Users/apple/Desktop/Chatservice/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/apple/Desktop/Chatserviceexe/CMakeFiles/generate.stamp is up-to-date.
+  MyServer.cpp
+C:\Users\apple\Desktop\Chatservice\MyServer.cpp(372,5): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  MyServer.vcxproj -> C:\Users\apple\Desktop\Chatserviceexe\Debug\MyServer.exe

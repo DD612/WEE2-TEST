@@ -1,0 +1,10 @@
+^C:\USERS\APPLE\DESKTOP\CHATSERVICEEXE\CMAKEFILES\84997F57493EB74C4CF37CEE1143BFDC\GENERATE.STAMP.RULE
+setlocal
+C:\Users\apple\Desktop\cmake-3.14.0-win64-x64\bin\cmake.exe -SC:/Users/apple/Desktop/Chatservice -BC:/Users/apple/Desktop/Chatserviceexe --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/apple/Desktop/Chatserviceexe/Chatservice.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
